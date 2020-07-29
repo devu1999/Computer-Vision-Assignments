@@ -1,0 +1,3 @@
+threshold = 0.001
+iter = 7
+comp = 4
